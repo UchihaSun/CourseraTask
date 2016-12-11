@@ -1,6 +1,5 @@
 * {
     box-sizing: border-box;
-    font-family: "Comic Sans MS", cursive, sans-serif;
 }
 
 body {
@@ -9,6 +8,15 @@ body {
 
 h1 {
     font-size: 1.75em;
+    font-family: "Comic Sans MS", cursive, sans-serif
+}
+
+#food {
+    font-family: "Comic Sans MS", cursive, sans-serif
+}
+
+p {
+    font-family: "Times New Roman", Times, serif;
 }
 
 section {
@@ -20,6 +28,7 @@ section {
 
 section h3 {
     font-size: 1.25em;
+    font-family: Georgia, serif;
 }
 
 section p {
